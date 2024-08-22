@@ -1,0 +1,10 @@
+ {
+       "language": "اللغة",
+       "appTheme": "الوضع",
+       "location": "الموقع",
+       "favorites": "المفلة",
+       "download": "التنزيلات",
+       "subscription": "الاشتراك",
+       "clearHistory": "مسح التاريخ",
+       "logout": "تسجيل خروج"
+ }

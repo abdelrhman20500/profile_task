@@ -1,0 +1,10 @@
+ {
+         "language": "Language",
+          "appTheme": "App Theme",
+          "location": "Location",
+          "favorites": "Favorites",
+          "download": "Download",
+          "subscription": "Subscription",
+          "clearHistory": "Clear History",
+          "logout": "Logout"
+ }
